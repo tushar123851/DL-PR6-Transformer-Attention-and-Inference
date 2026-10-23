@@ -20,6 +20,18 @@
 
 ---
 
+# 🎥 Project Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/18Ft64KHNZN-XS6CrNSwS7A8Ez4l69clA/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-Open%20Video-red?style=for-the-badge" alt="Watch Project Demo Video">
+  </a>
+</p>
+
+
+---
+
+
 ## 🌟 Project overview
 
 This project explores how Transformer architectures work, how their attention patterns can be visualized, and how pretrained models can be applied to real NLP tasks. It progresses from NumPy implementations of attention to inspection of DistilBERT and GPT-2, T5 translation and summarization, generation benchmarks, sentiment evaluation, and a combined NLP toolkit.
